@@ -1,0 +1,2 @@
+# AkkaClusterSharding
+Akka Cluster Sharding 
